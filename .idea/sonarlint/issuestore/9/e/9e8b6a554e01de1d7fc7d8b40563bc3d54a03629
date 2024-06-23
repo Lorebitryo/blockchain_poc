@@ -1,0 +1,8 @@
+
+©
+java:S1488"fImmediately return this expression instead of assigning it to the temporary variable "calculatedhash".(ýÐ˜©8­ˆæ·„2J$8cb2774a-0663-4f00-8f0a-5799bb8a000e
+“
+java:S1104"PMake hash a static final constant or non-public and provide accessors if needed.(õïœÄ8­ˆæ·„2J$1630b4bb-6755-4a28-a2e2-b229cb90e8d3
+ 
+java:S1104"XMake previousHash a static final constant or non-public and provide accessors if needed.(Û±µ¨úÿÿÿÿ8­ˆæ·„2J$c0af889a-5a57-480a-aac7-27c2f3a339fe
+m	java:S106%"+Replace this use of System.out by a logger.(§ËÞü8½ˆæ·„2J$e980301e-efcc-4fa6-91f8-fac13110c6b3

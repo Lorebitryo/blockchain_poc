@@ -1,0 +1,9 @@
+
+	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8¢Š‹·„2J$9c537220-9ba1-4311-8373-ae3d7da66c0b
+|
+java:S1149
+"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(»Šê¨8Š¦¸„2
+‚
+java:S1118":Add a private constructor to hide the implicit public one.(Õåø€ûÿÿÿÿ8Ü³Š·„2J$0082d67b-24ba-42b7-a421-b8f03a883063
+V
+java:S4719	"9Replace charset name argument with StandardCharsets.UTF_8(Û’ï8Š¦¸„2
